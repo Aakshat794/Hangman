@@ -1,1 +1,1 @@
-# Hangman
+Hangman game is a basic game in which we have to guess a word provided by the computer letter by letter within a limited number of incorrect guesses. This code involoves the basic use of functions, loops and conditional statements. 
